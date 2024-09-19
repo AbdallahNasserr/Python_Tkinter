@@ -1,5 +1,10 @@
 # Python_Tkinter
 
+![image](https://github.com/user-attachments/assets/4ae028cb-cee4-4819-998c-71b89724e2f0)
+
+[Presentation Link](https://www.canva.com/design/DAGRNB4Yj0M/BK9yxQq_XfxUX5mO7Fts3Q/edit?utm_content=DAGRNB4Yj0M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
 **GUI Projects with Python using Tkinter**
 
 **Clothing Store GUI System using Python language and Tkinter Module**
